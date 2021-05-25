@@ -2,7 +2,7 @@
 ## Title: HighestCrit
 ## Notes: Shows your highest crit
 ## Author: Daan Korver
-## Version: 0.0.1
+## Version: 0.0.2
 ## SavedVariablesPerCharacter: HighestCrit, HighestCritAction
 
 
