@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: HighestCrit
+## Notes: Shows your highest crit
+## Author: Daan Korver
+## Version: 0.0.1
+## SavedVariablesPerCharacter: HighestCrit, HighestCritAction
+
+
+HighestCrit.lua
