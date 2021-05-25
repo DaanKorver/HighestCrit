@@ -62,7 +62,7 @@ function showCommands()
 	print("-------------- |cffffcc00Hcrit Commands |cffffffff--------------")
 	for command in pairs(commands) do
 		local desc = commands[command].description
-		print("|cffffff00/hcrit " .. command .. "- |cffffffff" .. desc)
+		print("|cffffff00/hcrit " .. command .. " - |cffffffff" .. desc)
 	end
 	print("------------------------------------------------------")
 end
